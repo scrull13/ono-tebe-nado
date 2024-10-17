@@ -63,18 +63,16 @@
   width: 100%;
 }
 
-.title {
-  line-height: 100px;
-  color: white;
-  font-size: 100px;
-  position: relative;
-}
 .line_words {
   display: flex;
   margin-bottom: 10px;
   flex-direction: column;
   gap: 25px;
   padding-top: 172px;
+  line-height: 100px;
+  color: white;
+  font-size: 100px;
+  position: relative;
 }
 .left_word {
   letter-spacing: 0.24em;
@@ -104,7 +102,7 @@
 .page-text {
   font-weight: 500;
   font-size: 22px;
-  padding: 135px 0px 0px 80px;
+  padding: 85px 0px 0px 80px;
   word-spacing: 18px;
   color: white;
 }
@@ -112,7 +110,7 @@
   text-align: end;
   padding-right: 50px;
   position: relative;
-  top: -37px;
+  top: -155px;
   opacity: 0.6;
 }
 .bet_button {
@@ -129,7 +127,7 @@
 .bet_button:hover {
   background-color: #fff;
   color: black;
-  transition: background 0.2s linear, color 0.2s linear;
+  transition: 0.2s linear, color 0.2s linear;
 }
 .page_overlay {
   width: 100%;
