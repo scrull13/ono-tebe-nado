@@ -126,7 +126,7 @@
   width: 256px;
   height: 51px;
 }
-.bet_button:hover{
+.bet_button:hover {
   background-color: #fff;
   color: black;
   transition: background 0.2s linear, color 0.2s linear;
